@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Pycharm config folder
-.idea
+.idea/
+/.idea/
